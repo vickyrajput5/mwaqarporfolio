@@ -35,7 +35,13 @@
     grid-template-columns: 100%;
   }
   #about .me__container {
-    display: none;
+    order: 2;
+  }
+  .section__header {
+    order: 1;
+  }
+  #about .photo__container {
+    transform: rotate(0);
   }
   #about .btn {
     display: block;
