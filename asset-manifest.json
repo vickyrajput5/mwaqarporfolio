@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mwaqarporfolio/static/css/main.23050eb9.css",
-    "main.js": "/mwaqarporfolio/static/js/main.e4bab8a1.js",
+    "main.css": "/mwaqarporfolio/static/css/main.1663153f.css",
+    "main.js": "/mwaqarporfolio/static/js/main.13cb8b54.js",
     "static/media/EcomWord.png": "/mwaqarporfolio/static/media/EcomWord.90e5cb3e73f3e8a5c6d4.png",
     "static/media/Monalword.png": "/mwaqarporfolio/static/media/Monalword.74ba6ca6d180a79c9dd5.png",
     "static/media/packagesWord.png": "/mwaqarporfolio/static/media/packagesWord.a83ab4c13c81d9539046.png",
@@ -18,11 +18,11 @@
     "static/media/profile-2.jpg": "/mwaqarporfolio/static/media/profile-2.e8e250b8e5035bf98eca.jpg",
     "static/media/github3d.png": "/mwaqarporfolio/static/media/github3d.d87448bf17ef94d14edb.png",
     "index.html": "/mwaqarporfolio/index.html",
-    "main.23050eb9.css.map": "/mwaqarporfolio/static/css/main.23050eb9.css.map",
-    "main.e4bab8a1.js.map": "/mwaqarporfolio/static/js/main.e4bab8a1.js.map"
+    "main.1663153f.css.map": "/mwaqarporfolio/static/css/main.1663153f.css.map",
+    "main.13cb8b54.js.map": "/mwaqarporfolio/static/js/main.13cb8b54.js.map"
   },
   "entrypoints": [
-    "static/css/main.23050eb9.css",
-    "static/js/main.e4bab8a1.js"
+    "static/css/main.1663153f.css",
+    "static/js/main.13cb8b54.js"
   ]
 }
